@@ -12,6 +12,4 @@ This scraper scrapes the interview questions for a company without other informa
 3. Run `$ python scrape.py`, and a chrome browser would open up. Then you will need to manually login to your account within 10 seconds window.
 4. After logging in, it will start scraping, and after it's done, `interview_questions.txt` would be created in the same directory you are working in.
 
-NOTE: `scrape.ipynb` briefly shows the working principle of everything, and how to work independently with the functions.
-
 #### Have fun and good luck in your interview!
