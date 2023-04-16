@@ -4,7 +4,7 @@ import time
 
 
 urls_pages = {"https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036_P4.htm": 4}
-
+PATH = "/path/to/chromedriver"
 
 class Scrape:
     
@@ -17,7 +17,7 @@ class Scrape:
         # initialize driver
         caps = DesiredCapabilities().CHROME
         caps["pageLoadStrategy"] = "eager"
-        driver = webdriver.Chrome(desired_capabilities=caps)
+        driver = webdriver.Chrome(PATH, desired_capabilities=caps)
 
         # login, need to manually type in email and password within 10 seconds window
         driver.get("http://www.glassdoor.com/profile/login_input.htm")
