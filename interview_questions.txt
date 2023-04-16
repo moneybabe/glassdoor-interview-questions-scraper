@@ -1,0 +1,128 @@
+0) 
+What is 5^5
+
+1) 
+Can you generate a number from 1-10 uniformly at random using two dice?
+
+2) 
+Dice rolling games as you can find on this website.
+
+3) 
+Conditional Probability, Games, Interval Confidence
+
+4) 
+Per esempio la prossima data composta da tutte cifre diverse
+
+5) 
+Starting from todays date DD/MM/YYYY what is the next one that has distinct digits?
+
+6) 
+Probability
+
+7) 
+probability related questions wre asked
+
+8) 
+The interview questions were challenging but they guided me throughout
+
+9) 
+making bets on properties of 4 face down playing cards
+
+10) 
+I was asked to develop a strategy for a Colonel Blotto game with 10 battlefield of different values - from 1 to 10 with 100 soldiers.
+
+11) 
+Interesting probability questions. The questions were very interesting and did not require too much knowledge rather checked attitude and aptitude. Overall a nice interview experience . The person taking the interview was very friendly and respectful and only 5 years older than me .
+
+12) 
+Probability-related questions for the first few rounds.
+
+13) 
+Basic Options Theory questions with pricing and greeks
+
+14) 
+Mainly questions on probability and expected value.
+
+15) 
+Not supposed to disclose the question
+
+16) 
+Market on sum of four cards as they were being flipped.
+
+17) 
+coin tosses, A wins if HTT, B wins if TTH, is this fair?
+
+18) 
+What is the probability of getting odd number of coins out of 100 coins.
+
+19) 
+combinatorics and expected value question
+
+20) 
+Various card and dice games were posed
+
+21) 
+Expected value questions with two die
+
+22) 
+2 people play a game where 2 dice are rolled and each can see 1. They then alternate bidding on the value of the dice. Who wins?
+
+23) 
+What is the price if you can flip any two coins of the same face
+
+24) 
+Whether it would be better to bet on one type of dice or another.
+
+25) 
+dice problems like the probability of one
+
+26) 
+What is expected value of pi?
+
+27) 
+Solving total number of people
+
+28) 
+Probability question about casino game
+
+29) 
+I do not remember exactly. How many pages to you have to flip to find a word in a 1billion page dictionary.
+
+30) 
+mental multiplication in a few seconds
+
+31) 
+Probability,expectations
+
+32) 
+What is the sum of the odd positive integers less than 60? What is the probability that n coins have even number of heads, and what if one coin was biased?
+
+33) 
+What is the predicted value for a game where you roll a fair dice and get the number face up in dollars
+
+34) 
+Probability Problems:
+1. Card games
+2. Counting number of years (brain teaser)
+
+35) 
+Random walk with coin flips and a boundary - bet on the outcome of the game
+
+36) 
+Salmon question and dice question
+
+37) 
+what is the minimum number of numbers you need to factor a specific number (given by them)
+
+38) 
+probability questions like conditional probability
+
+39) 
+Probability question with bear catching fish, asked for the success rate.
+
+40) 
+conditional probability, likelihood calculation, is the game they designed fair?
+
+41) 
+Gambling on a coin flip being heads, giving you increasing odds of 1.5:1 gradually up to 7:1 and explain your reasoning of betting/not betting on it.
+
