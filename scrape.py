@@ -2,6 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
 
+
+urls_pages = {"https://www.glassdoor.com/Interview/Amazon-Interview-Questions-E6036_P4.htm": 4}
+
+
 class Scrape:
     
     # urls_pages is a dictionary of urls as keys and number of pages you want to scrape for corresponding url as values
@@ -40,3 +44,8 @@ class Scrape:
         with open("interview_questions.txt", "w") as data:
             for i in range(len(questions)):
                 data.write(str(i) + ") \n" + questions[i] + "\n\n")
+
+if __name__ == "__main__":
+    scraper = Scrape(urls_pages)
+    scraper.scrape()
+    scraper.export_to_txt()
